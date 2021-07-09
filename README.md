@@ -7,7 +7,7 @@ In the words of Bruce Lee:
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS and Gatsby JS.<br />
+Currently improving my React skills: NextJS and GatsbyJS.<br />
 
 ### My most recent posts on [medium.com](https://medium.com/@kmulinarik) 😃🧾
 <!-- BLOG-POST-LIST:START -->
