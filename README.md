@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Kevin!
 
-I work as a front-end developer in Brazil.
+I work as a software developer in Brazil.
 
 In the words of Bruce Lee:
 > Be water, my friend!
