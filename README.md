@@ -7,7 +7,7 @@ In the words of Bruce Lee:
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my NextJS and GraphQL skills<br />
+Currently improving my NextJS and Swift skills<br />
 
 ### My most recent posts on [medium.com](https://medium.com/@kmulinarik) 😃🧾
 <!-- BLOG-POST-LIST:START -->
