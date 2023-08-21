@@ -7,7 +7,7 @@ In the words of Bruce Lee:
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my AWS skills<br />
+Currently improving my Shopify skills<br />
 
 ### My most recent posts on [medium.com](https://medium.com/@kmulinarik) 🧾
 <!-- BLOG-POST-LIST:START -->
